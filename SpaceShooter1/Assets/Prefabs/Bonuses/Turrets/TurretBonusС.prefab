@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4558679990560486631, guid: 6eae162a1c4891e4fa02719a34e840fc, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"TargetNum","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"TurretNum","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 4708350149381835752, guid: 6eae162a1c4891e4fa02719a34e840fc, type: 3}
@@ -59,7 +59,7 @@ PrefabInstance:
       objectReference: {fileID: 5928967866344028824, guid: 5666ed70930e804439a75adb615f3be4, type: 3}
     - target: {fileID: 6510160749039399093, guid: 6eae162a1c4891e4fa02719a34e840fc, type: 3}
       propertyPath: m_Name
-      value: TurretBonusB Variant
+      value: "TurretBonus\u0421"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

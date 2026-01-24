@@ -54,11 +54,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1656778680095538974, guid: 35532844d82c55e4cbc6e844d61489b8, type: 3}
       propertyPath: m_Name
-      value: TurretBonusB Variant
+      value: TurretBonusD
+      objectReference: {fileID: 0}
+    - target: {fileID: 8098405311759544445, guid: 35532844d82c55e4cbc6e844d61489b8, type: 3}
+      propertyPath: m_Constraints
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8351112520734227276, guid: 35532844d82c55e4cbc6e844d61489b8, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"TargetNum","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"TurretNum","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
